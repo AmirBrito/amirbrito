@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/amirbrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirbrito&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbrito&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amirbrito&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbrito&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="amir-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
